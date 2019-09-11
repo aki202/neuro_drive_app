@@ -1,0 +1,12 @@
+{
+  "name": "neuro_drive_app",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "electron": "^6.0.8"
+  },
+  "scripts": {
+    "start": "electron ."
+  }
+}
